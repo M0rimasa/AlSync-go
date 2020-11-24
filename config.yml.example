@@ -1,0 +1,10 @@
+Anilist: 
+  username: <your username>
+
+MyAnimeList: 
+  csrf_token: <token from mal body>
+  cookies: 
+    MALSESSIONID: <cookie>
+    MALHLOGSESSID: <cookie>
+
+update_interval: 30
